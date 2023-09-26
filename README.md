@@ -1,5 +1,5 @@
 <p align="center">
-![image](https://github.com/Tenor-Z/TrumpGBA/assets/55516164/7dc9797f-ad42-47fb-b502-4fb2272ebf5d)
+<img src="https://github.com/Tenor-Z/TrumpGBA/assets/55516164/7dc9797f-ad42-47fb-b502-4fb2272ebf5d">
 </p>
 
 # TrumpGBA
