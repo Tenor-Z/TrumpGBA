@@ -1,4 +1,6 @@
+<p align="center">
 ![image](https://github.com/Tenor-Z/TrumpGBA/assets/55516164/7dc9797f-ad42-47fb-b502-4fb2272ebf5d)
+</p>
 
 # TrumpGBA
 TrumpGBA is a program for the Game Boy Advance that displays the mugshot of Donald Trump in all its limited, pixelated glory.
