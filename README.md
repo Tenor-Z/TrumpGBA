@@ -10,6 +10,7 @@ was created with the GBA JPEG Viewer.
 # NOTE
 The GBA JPEG Viewer version is in much higher quality. I had to convert the original picture to a .pcx in order to fit under the
 GBA's palette system. For the GBA JPEG Viewer version, I didn't need to do this and just added the original file to the slideshow.
+I understand that something like this is controversial, but I only wrote this for fun, not to spread my political beliefs.
 
 # How to Build
 Download and extract the zip folder. Run a CLI in the folder and run the "make" command. The output will be TrumpGBA.gba and
